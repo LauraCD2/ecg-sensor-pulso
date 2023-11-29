@@ -4,7 +4,7 @@ En la actualidad, los estilos de vida sedentarios y poco saludables están gener
 
 Palabras clave: Electrocardiógrafo, ECG, Cardiovascular, Arduino, Electromagnetismo. 
 
-[VIDEO]([https://pages.github.com/](https://youtu.be/fQ2gvB490mg))
+[VIDEO]([https://www.youtube.com/watch?v=fQ2gvB490mg])
 
 # OBJETIVOS:
 
